@@ -1,9 +1,11 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Caio Igor Lelis Silva
+- Matricula: 905761
 
 ## Print da tela da página criada (Curriculum Vitae)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+./diw].PNG
+./diw2.PNG
