@@ -9,5 +9,9 @@
 ## Print da tela da página criada (Curriculum Vitae)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-./diw].PNG
-./diw2.PNG a
+<<<<<<< HEAD
+
+=======
+![print](public/diw].PNG)
+![print](public/diw2.PNG)
+>>>>>>> c5616b62e5dff0627f8c3371597a5995d6ec97cd
