@@ -1,0 +1,103 @@
+body{
+    background-color: white;
+    text-decoration: #0a0c11;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 30px;
+    margin: 15px
+}
+
+.linha-divisoria {
+    margin: 30px 0;
+    height: 1px;
+    background: linear-gradient(to right, #3498db);
+}
+
+header{
+    margin-top: 15px;
+}
+
+.endereco{
+color: #909aaa      
+}
+.endereco{
+    font-weight: bold;
+}
+
+.prof{
+    font-size: 20px;
+    font-weight: normal
+}
+.prof{
+    color: #3498db
+}
+.nome{
+    color: rgb(2, 2, 31)
+}
+.nome{
+    font-size: 40px;
+    font-weight: bolder;
+}
+nav{
+    display: inline
+    }
+
+.obj > h1{
+    font-size: 25px;
+    color: #0a0c11;
+}
+
+.formacao li{
+    color: #3498db
+}
+.formacao > h1{
+    font-size: 25px;
+    color: #0a0c11;
+}
+
+.contatos{
+    justify-content: space-between;
+    display: flex;
+    color: #3498db
+}
+
+a:hover{
+    color:#3498db
+}
+
+.email{
+    color: #909aaa
+}
+
+.contato{
+    color: #909aaa
+}
+
+.link{
+    color: #909aaa
+}
+
+
+.ano > dt{
+    font-weight: bold;
+    color: #909aaa
+}
+
+.ano > h1{
+    font-size: 25px;
+    color: #0a0c11
+}
+
+.ano > h2{
+    font-size: 20px ;
+    color: #3498db
+}
+
+.curso > h1{
+    font-size: 25px;
+    color: #3498db
+}
+
+li:before{
+    color: #3498db
+    
+}
